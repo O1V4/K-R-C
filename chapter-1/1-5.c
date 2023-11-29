@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main(){
+void main(void){
     int cel;
 
     printf("Celsius\t Fahrenheit\n");
