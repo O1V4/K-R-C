@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
-    putchar(EOF);
-    printf("\n");
+    printf("%d\n", EOF); /*prints the encoding of EOF*/
+    
+    return 0;
 }
